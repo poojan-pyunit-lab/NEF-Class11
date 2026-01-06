@@ -22,4 +22,4 @@ Welcome to my repository of **Class 11 C Programming solutions** for Xavier Acad
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/NEF-Class11-C-Programming.git
+   [git clone https://github.com/your-username/NEF-Class11-C-Programming.git](https://github.com/poojan-pyunit-lab/NEF-Class11.git)
